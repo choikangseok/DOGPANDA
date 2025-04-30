@@ -1,13 +1,6 @@
 {
   "name": "DOGPANDA",
-  "symbol": "DOGPANDA",
-  "uri": "https://raw.githubusercontent.com/choikangseok/DOGPANDA/refs/heads/main/DOGPANDA.json",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "3rKxu6CnNkkmzRPqkDjDHgeeu65BSTp2viQefy1ysSMa",
-      "verified": true,
-      "share": 100
-    }
-  ]
+  "symbol": "DP",
+  "description": "A cute DogPanda-themed token on Solana",
+  "image": "https://raw.githubusercontent.com/choikangseok/DOGPANDA/refs/heads/main/DOGPANDA.png"
 }
